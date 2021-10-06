@@ -2,7 +2,7 @@
 
 You are a pilot of a dammaged space-ship. Every action from accelerating, to shooting, to colliding with anything causes your engine to become more unstable. Push it too far and you’re dead.
 
-This game was made GameMaker Studio 2 for the Ludum Dare 49 Game Jam, the theme of which was "unstable". That website gave me trouble so I couldn't actually enter, but I have to post this somewhere anyway because I'm proud of it.
+This game was made GameMaker Studio 2 for the Ludum Dare 49 Game Jam, the theme of which was "unstable". That website gave me trouble so I couldn't actually enter, but I have to post this somewhere anyway because I'm proud.
 
 This is the first game I’ve ever made. It’s really just a prototype, but I’m very proud of what I did in this one weekend thanks to the tutorials out there and the work that I’ve put into learning GMS2
 
